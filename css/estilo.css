@@ -1,0 +1,19 @@
+a {
+    text-decoration: none;
+    color: #ffff;
+}
+
+.link1, .link2 {
+    text-decoration: none;
+    color: black;
+}
+
+.add,.cad {
+    color:#ffff;
+    text-decoration: none;
+}
+
+
+h1 {
+    justify-content: center;
+}
